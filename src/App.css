@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color: #50545b;
 }
 
 .App-logo {
@@ -35,4 +36,25 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.mediaCards {
+  background-color: #50545b;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 3ch;
+}
+
+.searchs {
+  background-color: #50545b;
+}
+
+.searchInput {
+  height: 4.8ch;
+  width: 30ch;
+  border-radius: 6%;
+}
+
+.navbarClass {
+  font-size: 1.4em;
 }
